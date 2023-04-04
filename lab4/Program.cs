@@ -19,7 +19,16 @@
             {
                 case 1:
                     Task1.Run();
-                    break; 
+                    break;
+                case 2:
+                    Task2.Run();
+                    break;
+                case 3:
+                    Task3.Run();
+                    break;
+                case 4:
+                    Task4.Run();
+                    break;
             }
         }
     }
